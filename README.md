@@ -14,9 +14,7 @@
 ## 분류
 
 ### Java
+- [추상 클래스와 인터페이스](https://github.com/Jinuk-Lee/TIL/blob/main/Java/abstract-and-interface.md)
 
-### Network
 
-    
-### OS
 
